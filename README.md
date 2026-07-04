@@ -19,11 +19,11 @@ This site is more than just a project. It represents my progression as a develop
 This portfolio was built to:
 
 - Highlight my technical skills and tools
-- Showcase projects I’ve worked on
+- Showcase projects I've worked on
 - Share my journey and passion for software development
 - Provide a central place for recruiters, collaborators, and peers to connect with my work
 
-I’m continuously improving this portfolio by adding:
+I'm continuously improving this portfolio by adding:
 
 - New projects
 - Better UI/UX enhancements
@@ -46,7 +46,7 @@ I’m continuously improving this portfolio by adding:
 
 ## 📸 Preview
 
-![Preview](https://github.com/MaxKarltun/Portfolio/blob/main/.github/images/preview.png?raw=true)
+![Preview](https://github.com/MaxKarltun/Portfolio/blob/main/preview.png?raw=true)
 
 ---
 
@@ -60,9 +60,9 @@ I’m continuously improving this portfolio by adding:
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-If you’d like to collaborate, connect, or talk tech, feel free to reach out through my portfolio.
+If you'd like to collaborate, connect, or talk tech, feel free to reach out through my portfolio.
 
 ⭐ If you like this project, consider giving it a star!
 

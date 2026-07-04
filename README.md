@@ -46,7 +46,7 @@ I’m continuously improving this portfolio by adding:
 
 ## 📸 Preview
 
-![Preview](.github/images/preview.png)
+![Preview](https://github.com/MaxKarltun/Portfolio/blob/main/.github/images/preview.png?raw=true)
 
 ---
 

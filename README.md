@@ -9,7 +9,7 @@ This site is more than just a project. It represents my progression as a develop
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://karltunmoreno.github.io/Portfolio/"><b>🔗 View My Portfolio Website</b></a>
+  <a href="https://maxkarltun.github.io/Portfolio/"><b>🔗 View My Portfolio Website</b></a>
 </p>
 
 ---

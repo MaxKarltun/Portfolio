@@ -46,7 +46,7 @@ I’m continuously improving this portfolio by adding:
 
 ## 📸 Preview
 
-![Portfolio Preview](https://media.licdn.com/dms/image/D4E22AQGQJpqhAwOYng/feedshare-shrink_1280/0/1708550181428?e=1717027200&v=beta&t=5QGL3KV5DhvsPFuYy2a8WynJeRh3rI7hLjeCOa-bQDE)
+![Portfolio Preview](.github/images/preview.png)
 
 ---
 

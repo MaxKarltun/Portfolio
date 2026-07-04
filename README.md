@@ -46,7 +46,7 @@ I’m continuously improving this portfolio by adding:
 
 ## 📸 Preview
 
-![Portfolio Preview](.github/images/preview.png)
+![Preview](.github/images/preview.png)
 
 ---
 
